@@ -1,7 +1,19 @@
 body {
     background: silver;
     background-position: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    position: center;
 }
 h1 {
     color: blue;
+}
+p {
+    font-size: large;
+}
+div {
+    border: 15px;
+}
+ul {
+    font-size: large;
 }
